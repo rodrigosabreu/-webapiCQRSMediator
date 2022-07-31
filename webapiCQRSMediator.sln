@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapiCQRSMediator", "webapiCQRSMediator.csproj", "{11AC5C2F-001A-4C75-8D32-E73F53F39954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AC5C2F-001A-4C75-8D32-E73F53F39954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AC5C2F-001A-4C75-8D32-E73F53F39954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AC5C2F-001A-4C75-8D32-E73F53F39954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AC5C2F-001A-4C75-8D32-E73F53F39954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56496C67-D719-4361-8581-52144FC8D6EC}
+	EndGlobalSection
+EndGlobal
